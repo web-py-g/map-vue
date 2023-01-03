@@ -6,5 +6,3 @@
  В папке запустить команду: npm i
 
  После заугрузки всех модулей запустить командой: npm run serve
-
-https://david-desmaisons.github.io/draggable-example/
